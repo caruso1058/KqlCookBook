@@ -4,7 +4,7 @@ This guide covers essential KQL concepts, data types, operators, and best practi
 
 Whether you're new to KQL or looking for advanced techniques, this guide will serve as a valuable resource.
 
-Some of the content in this cookbook has been compiled based on Robert Cain's Plural Site Course: KQL from Scratch and is intended to be used as a quick reference guide for writing KQL queries.
+Some of the content in this cookbook has been compiled based on Robert Cain's Plural Site Course: KQL from Scratch.
 
 Some example queries can be run on the Microsoft test database MS Azure Log Data and can be accessed through the provided link:
 
